@@ -12,8 +12,7 @@ The system has since been officially adopted by Okutama Town and expanded to nea
 - 🎯 **Purpose**: Support rural municipalities in capturing and visualizing wildlife damage incidents through citizen participation
 - 🏛️ **Used by**: Okutama Town (Tokyo), Ome City (from 2025)
 - 🧑‍🌾 **Tools**: LINE bot (for residents), Web dashboard (for municipal staff)
-- 🛠️ **Tech**: Node.js, Supabase, AWS S3, Vercel
-- 🔓 **OSS Compliance**: Published under Tokyo Metropolitan Government OSS Guidelines
+- 🛠️ **Tech**: Node.js, AWS S3, Vercel
 
 ---
 
